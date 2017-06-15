@@ -15,12 +15,8 @@
 <name>sonar-java-examples</name>
 
 <url>http://maven.apache.org</url>
-
-
--<dependencies>
-
-
--<dependency>
+<dependencies>
+<dependency>
 
 <groupId>junit</groupId>
 
