@@ -112,7 +112,6 @@
   </distributionManagement>
 
  
-  <artifactId>sonar-java-examples</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>sonar-java-examples</name>
